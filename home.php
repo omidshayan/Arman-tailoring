@@ -21,9 +21,6 @@
                                 <h5> <?=$rows?> عدد</h5>
                             </div>
                         </div>
-
-
-
                         <div class="overview-item">
                             <div class="overview-icon">
                                 <i class="fas fa-align-center"></i>
